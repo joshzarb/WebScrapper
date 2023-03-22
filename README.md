@@ -11,4 +11,3 @@ This project provides a web scraper that can be used to collect information from
 
 **Configuration:** The program currently connects to a local MySQL database with the default username and password. If you need to connect to a different database, you will need to modify the getConnection method in the WebScraper class.
 
-**License:** This code is provided under the MIT License. You are free to use, modify, and distribute the code as long as you include the original license text in your distribution.
